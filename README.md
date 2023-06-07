@@ -26,6 +26,8 @@ sudo apt  install docker-compose
 
 docker stop "ID"
 
+- Ahora con el siguiente comando lo podemos levantar
+
 docker-compose up
 
 - Para saber que ya esté en funcionamiento deberá aparecer el FOREGROUND, como vemos en la imagen de abajo
