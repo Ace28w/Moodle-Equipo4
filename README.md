@@ -51,7 +51,7 @@ $docker-compose stop
 
 ![Moodle-Screen01](Img/Inicio.png)
 
-- Ya dentro podemos nuestras credenciales para entrar en modo administrador que se menciona en el paso 1
+- Ya dentro escribimos nuestras credenciales para entrar en modo administrador que se menciona en el paso 1
 
 ![Moodle-Screen02](Img/Login.png)
 
@@ -66,7 +66,7 @@ $docker-compose stop
 
 ![Moodle-Screen04](Img/Cursos.png)
 
-- Entonces llenamos los datos necesarios como el nombre que queramos
+- Entonces llenamos los datos necesarios con el nombre que queramos
 
 ![Moodle-Screen05](Img/Agregarcurso.png)
 
@@ -74,10 +74,10 @@ $docker-compose stop
 
 ![Moodle-Screen06](Img/ConfirmarCurso.png)
 
-- Ahora vemos que estaos dentro del curso y podremos agregar las actividades entre varias cosas
+- Ahora nos manda dentro del curso y podemos agregar las actividades entre varias cosas
 
 ![Moodle-Screen07](Img/DentroCurso.png)
 
-- Ahora si nos vamos en my courses podemos ver que se encuentra el que teníamos y el nuevo, donde acá aparecen todos nuestros cursos creados
+- Ahora si nos vamos en my courses podemos ver que se encuentra el que teníamos y el nuevo, donde aparecerán todos nuestros cursos creados
 
 ![Moodle-Screen08](Img/CursoFinal.png)
