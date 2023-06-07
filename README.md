@@ -51,11 +51,11 @@ $docker-compose stop
 
 - Entonces llenamos los datos necesarios como el nombre que queramos
 
-![Moodle-Screen05](Img/Agregar curso.png)
+![Moodle-Screen05](Img/Agregarcurso.png)
 
 - Bajamos hasta el final y vemos que esta confirmar, le damos click
 
-![Moodle-Screen06](Img/Confirmar Curso.png)
+![Moodle-Screen06](Img/ConfirmarCurso.png)
 
 - Ahora vemos que estaos dentro del curso y podremo agragar las actividades entre varias cosas
 
