@@ -32,7 +32,7 @@ $docker-compose stop
 
 - Accediendo a nuestro moodle desde nuestra IP nos vamos a log in
 
-![Moodle-Screen01](Img/Login.png)
+![Moodle-Screen01](Img/Inicio.png)
 
 - Ya dentro podemos nuestras credenciales apra entrar en modo administrador que se menciona en el paso 1
 
