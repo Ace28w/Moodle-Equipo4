@@ -1,4 +1,4 @@
-# Instalacion de Moodle-Equipo4
+# Instalación de Moodle-Equipo4
 
 ## Moodle y dependencias
 - Instalación con docker-compose 
@@ -9,25 +9,25 @@
 
 ### Correr localmente usando docker
 
-1. Clonar el repositorio al directorio local de instalación
+1. Clonar el repositorio al directorio local de instalación donde trabajemos nuestro docker
 git clone https://github.com/Ace28w/Moodle-Equipo4.git
 
 2. Para correr los contenedores
 
 cd Moodle-Equipo4
 
-- Consideracion a tomar
+- Consideración a tomar
 --> Si no esta instalado el docker compose lo puedes descargar e instalar con el siguiente comando:
 
 sudo apt  install docker-compose
 
---> Como recomendacion apagar contenedores docker que esten en ejecucion con:
+--> Como recomendación apagar contenedores docker que estén en ejecución con:
 
 docker stop "ID"
 
 docker-compose up
 
-- Para saber que ya este en funcionamiento debera aparecer el FOREGROUND, como vemos en la iamgen de abajo
+- Para saber que ya esté en funcionamiento deberá aparecer el FOREGROUND, como vemos en la imagen de abajo
 
 ![Moodle-Screen09](Img/Fore.png)
 
@@ -48,7 +48,7 @@ $docker-compose stop
 
 ![Moodle-Screen01](Img/Inicio.png)
 
-- Ya dentro podemos nuestras credenciales apra entrar en modo administrador que se menciona en el paso 1
+- Ya dentro podemos nuestras credenciales para entrar en modo administrador que se menciona en el paso 1
 
 ![Moodle-Screen02](Img/Login.png)
 
@@ -56,10 +56,10 @@ $docker-compose stop
 
 ![Moodle-Screen03](Img/Dentro.png)
 
-# Paso3) Creacion de un curso
+# Paso3) Creación de un curso
 
 - Como primer paso habilitamos el modo edición y nos vamos en my courses
-- En los 3 puntos estara para agregar un nuevo curso
+- En los 3 puntos estará para agregar un nuevo curso
 
 ![Moodle-Screen04](Img/Cursos.png)
 
@@ -71,10 +71,10 @@ $docker-compose stop
 
 ![Moodle-Screen06](Img/ConfirmarCurso.png)
 
-- Ahora vemos que estaos dentro del curso y podremo agragar las actividades entre varias cosas
+- Ahora vemos que estaos dentro del curso y podremos agregar las actividades entre varias cosas
 
 ![Moodle-Screen07](Img/DentroCurso.png)
 
-- Ahora si nos vamos en my courses podemos ver que se encuentra el que teniamso y el nuevo, donde acá aparecen todos nuestros cursos creados
+- Ahora si nos vamos en my courses podemos ver que se encuentra el que teníamos y el nuevo, donde acá aparecen todos nuestros cursos creados
 
 ![Moodle-Screen08](Img/CursoFinal.png)
