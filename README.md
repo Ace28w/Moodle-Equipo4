@@ -51,16 +51,16 @@ $docker-compose stop
 
 - Entonces llenamos los datos necesarios como el nombre que queramos
 
-![Moodle-Screen05](Agregar curso.png)
+![Moodle-Screen05](Img/Agregar curso.png)
 
 - Bajamos hasta el final y vemos que esta confirmar, le damos click
 
-![Moodle-Screen06](Confirmar Curso.png)
+![Moodle-Screen06](Img/Confirmar Curso.png)
 
 - Ahora vemos que estaos dentro del curso y podremo agragar las actividades entre varias cosas
 
-![Moodle-Screen07](DentroCurso.png)
+![Moodle-Screen07](Img/DentroCurso.png)
 
 - Ahora si nos vamos en my course podemos ver que se encuentra el que teniamso y el nuevo, donde acá aparecen todos nuestros cursos creados
 
-![Moodle-Screen08](CursoFinal.png)
+![Moodle-Screen08](Img/CursoFinal.png)
