@@ -22,9 +22,22 @@ docker-compose up
 
 $docker-compose stop
 
-# Paso 1) Correr Moodle y Configurar
+# Paso 1) Correr Moodle
 
 - http://TuIP:80/
 - Usuario: user
 - Password: bitnami
-- Confirmar
+
+# Paso 2) Entrar en nuestro Moodle
+
+- Accediendo a nuestro moodle desde nuestra IP nos vamos a log in
+
+![Moodle-Screen01](Img/Login.png)
+
+- Ya dentro podemos nuestras credenciales apra entrar en modo administrador que se menciona en el paso 1
+
+![Moodle-Screen02](Img/Login.png)
+
+- Ahora vemos que hemos iniciado en modo administrador a nuestro moodle
+
+![Moodle-Screen03](Img/Dentro.png)
