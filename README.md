@@ -17,6 +17,7 @@ git clone https://github.com/Ace28w/Moodle-Equipo4.git
 cd Moodle-Equipo4
 
 - Consideración a tomar
+
 --> Si no esta instalado el docker compose lo puedes descargar e instalar con el siguiente comando:
 
 sudo apt  install docker-compose
