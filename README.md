@@ -47,7 +47,7 @@ $docker-compose stop
 - Como primer paso habilitamos el modo edicion y nos vamos en my courso
 - En los 3 puntos estara para agregar un nuevo curso
 
-![Moodle-Screen04](Img/Curso.png)
+![Moodle-Screen04](Img/Cursos.png)
 
 - Entonces llenamos los datos necesarios como el nombre que queramos
 
